@@ -1,0 +1,5 @@
+= API Code Examples
+
+* link:calls/CallsApi.adoc[Send individual calls]
+* link:texts/TextsApi.adoc[Send individual texts]
+* link:subscriptions/SubscriptionsApi.adoc[Subscriptions API]
